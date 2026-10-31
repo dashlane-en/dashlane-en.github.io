@@ -1,0 +1,1 @@
+Extract all 10 ZIP parts into one folder and upload their contents to the root of the same GitHub Pages repository. Part 1 includes index.html, articles.html, support.html, style.css and article_index.csv. All pages are independent educational content.
